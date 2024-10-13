@@ -3,7 +3,7 @@ Para utilizar la aplicación, primero deberás copiar el repositorio. <br>
 Una vez copiado el repositorio tentras que entrar a la ruta del mismo en la consola de tu preferencia.<br>
 
 > [!IMPORTANT]
-> Hay que correr los comandos siguientes<br>
+> Hay que correr los comandos siguientes y asegurarse de tener instalado Node.js así como NPM<br>
 > ```
 > npm install
 > npm install express sqlite3 body-parser cors
