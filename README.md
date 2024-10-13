@@ -41,4 +41,8 @@ E inclusive eliminar las tareas, accion la cual tambien mostrará una notificaci
 ![image](https://github.com/user-attachments/assets/4c3d286e-60c8-45a8-bf2e-724df231eb37)
 ![image](https://github.com/user-attachments/assets/e4b8f464-4c13-44dd-a040-7c2c399c5883)
 
+<hr>
+
 # Video del funcionamiento de la aplicación
+https://github.com/user-attachments/assets/108e58d3-d623-48b4-a40a-48207c84ab9b
+
