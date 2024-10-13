@@ -1,7 +1,7 @@
 # Instrucciones de instalación
-Para utilizar la aplicación, primero deberás copiar el repositorio.
-Una vez copiado el repositorio tentras que entrar a la ruta del mismo en la consola de tu preferencia.
-Ahora solo hay que correr los comandos siguientes
+Para utilizar la aplicación, primero deberás copiar el repositorio. <br>
+Una vez copiado el repositorio tentras que entrar a la ruta del mismo en la consola de tu preferencia.<br>
+Ahora solo hay que correr los comandos siguientes<br>
 `
 npm install
 npm install sweetalert2
